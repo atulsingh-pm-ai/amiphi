@@ -1,5 +1,4 @@
-# amiphi[README.md](https://github.com/user-attachments/files/27275908/README.md)
-# ami-phi
+# amiphi
 
 **A friend who knows your health and works for your well-being.**
 
