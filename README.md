@@ -2,7 +2,7 @@
 
 **A friend who knows your health and works for your well-being.**
 
-ami-phi is a Hindi-first multimodal AI health companion. Patients speak in Hindi (or English), upload prescriptions and lab reports, and get back warm, plain-language explanations grounded in their own longitudinal health history. The system reads prescriptions and lab reports with medical vision models, talks back in natural Hindi, and remembers everything across conversations.
+ami-phi is a multimodal AI health companion. Patients speak in Hindi (or English), upload prescriptions and lab reports, and get back warm, plain-language explanations grounded in their own longitudinal health history. The system reads prescriptions and lab reports with medical vision models, talks back in natural Hindi, and remembers everything across conversations.
 
 
 This repository is the working prototype. It's the evolution of an earlier project called *Medi-Bridge*. The architecture has since been rebuilt around `phi_context`, a structured longitudinal memory layer that is the central commitment of the system.
@@ -28,7 +28,7 @@ This repository is the working prototype. It's the evolution of an earlier proje
 
 ## What it does
 
-- **ami** — a Hindi-first conversational layer (voice or text) that explains medications, lab values, dietary patterns, and emotional concerns in the language the user speaks
+- **ami** — a conversational layer (voice or text) that explains medications, lab values, dietary patterns, and emotional concerns in the language the user speaks
 - **phi** — a structured longitudinal memory store that learns from every prescription scan, lab upload, food-plate analysis, and conversation, and feeds back into every subsequent reasoning turn
 - **Prescription scanner** — photograph a prescription; MedGemma 4B extracts medicines, dosages, and inferred conditions as structured data
 - **Lab report analysis** — upload a blood test (PDF or image); MedGemma 1.5 reads each test, computes trends against prior values, and explains what changed
@@ -232,7 +232,7 @@ Working prototype. Backend, mobile (8 screens), and web are live in development.
 
 ## Acknowledgements
 
-Built on Anthropic's Claude, Google's MedGemma and Gemini families (via Vertex AI and AI Studio), and Sarvam AI's voice stack. Crisis-helpline integrations reference [iCall](https://icallhelpline.org/) and the [Vandrevala Foundation](https://www.vandrevalafoundation.com/). Drug knowledge grounded in OpenFDA.
+Built on Anthropic's Claude, Google's MedGemma and Gemini families (via Vertex AI and AI Studio), and Sarvam AI's voice stack.
 
 ---
 
