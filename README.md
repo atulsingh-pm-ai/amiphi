@@ -8,22 +8,6 @@ ami-phi is a multimodal AI health companion. Patients speak in Hindi (or English
 
 This repository is the working prototype. It's the evolution of an earlier project called *Medi-Bridge*. The architecture has since been rebuilt around `phi_context`, a structured longitudinal memory layer that is the central commitment of the system.
 
----
-
-### Screenshots
-
-<!-- Drop PNGs into docs/screenshots/ and they'll render here.
-     Suggested files: home.png, voice.png, rx-scan.png, lab.png, dietlens.png, wellbeing.png -->
-
-| Home | Voice chat (Hindi) | Prescription scan |
-|:---:|:---:|:---:|
-| ![Home](docs/screenshots/<img width="853" height="1844" alt="amitittle" src="https://github.com/user-attachments/assets/1d69b903-ce59-40bb-a112-ecc96099a480" />
-<img width="900" height="1747" alt="Home" src="https://github.com/user-attachments/assets/154f3e67-e11d-4d41-b1ba-3792c425c413" />
-home.png) | ![Voice](docs/screenshots/voice.png) | ![Rx Scan](docs/screenshots/rx-scan.png) |
-
-| Lab report | DietLens | Well Being |
-|:---:|:---:|:---:|
-| ![Lab](docs/screenshots/lab.png) | ![DietLens](docs/screenshots/dietlens.png) | ![Wellbeing](docs/screenshots/wellbeing.png) |
 
 > **Note:** This repository is published as a showcase of the architecture. It's not packaged for self-contained local installation — running it requires API keys for Anthropic, Google AI Studio, Sarvam, and a Vertex AI project with a MedGemma endpoint. If you want a code walkthrough or live demo, get in touch via the email at the bottom.
 
