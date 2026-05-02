@@ -1,4 +1,4 @@
-<img width="900" height="1747" alt="Home" src="https://github.com/user-attachments/assets/154f3e67-e11d-4d41-b1ba-3792c425c413" />
+
 # amiphi
 
 **A friend who knows your health and works for your well-being.**
@@ -18,6 +18,7 @@ This repository is the working prototype. It's the evolution of an earlier proje
 | Home | Voice chat (Hindi) | Prescription scan |
 |:---:|:---:|:---:|
 | ![Home](docs/screenshots/<img width="853" height="1844" alt="amitittle" src="https://github.com/user-attachments/assets/1d69b903-ce59-40bb-a112-ecc96099a480" />
+<img width="900" height="1747" alt="Home" src="https://github.com/user-attachments/assets/154f3e67-e11d-4d41-b1ba-3792c425c413" />
 home.png) | ![Voice](docs/screenshots/voice.png) | ![Rx Scan](docs/screenshots/rx-scan.png) |
 
 | Lab report | DietLens | Well Being |
