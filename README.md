@@ -16,7 +16,8 @@ This repository is the working prototype. It's the evolution of an earlier proje
 
 | Home | Voice chat (Hindi) | Prescription scan |
 |:---:|:---:|:---:|
-| ![Home](docs/screenshots/home.png) | ![Voice](docs/screenshots/voice.png) | ![Rx Scan](docs/screenshots/rx-scan.png) |
+| ![Home](docs/screenshots/<img width="853" height="1844" alt="amitittle" src="https://github.com/user-attachments/assets/1d69b903-ce59-40bb-a112-ecc96099a480" />
+home.png) | ![Voice](docs/screenshots/voice.png) | ![Rx Scan](docs/screenshots/rx-scan.png) |
 
 | Lab report | DietLens | Well Being |
 |:---:|:---:|:---:|
